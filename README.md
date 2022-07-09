@@ -31,11 +31,11 @@
 
 ###
 
-<p align="left"><strong> ㅤㅤㅤㅤㅤㅤㅤㅤㅤLenguages</strong></p>
+<p align="center"><strong>Lenguages & desing</strong></p><br>
 
 ###
 
-<div align="left">
+<div align="center">
   <p> </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="57" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="57" alt="css3 logo"  />
@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="57" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" width="57" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="57" alt="mysql logo"  />
-</div>
-<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" width="57" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" width="57" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="45" width="57" alt="xd logo"  />
@@ -53,9 +51,7 @@
 
 ###
 
-<p align="right"><strong>Desing ㅤㅤㅤㅤㅤㅤ</strong></p>
-
-###
+<br clear="both">
 
 <h4 align="center">━━━━━━━━━━━━━━━ Portfolio ━━━━━━━━━━━━━━━</h4>
 
