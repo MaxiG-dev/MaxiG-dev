@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">━━━━━━━━━━━━━━ Stats ━━━━━━━━━━━━━━</h4>
+<h4 align="center">━━━━━━━━━━━━━━━━ Stats ━━━━━━━━━━━━━━━━</h4>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="center">━━━━━━━━━━━━━━ My skills ━━━━━━━━━━━━━━</h4>
+<h4 align="center">━━━━━━━━━━━━━━━ My skills ━━━━━━━━━━━━━━━</h4>
 
 ###
 
