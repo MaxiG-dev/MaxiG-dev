@@ -15,13 +15,9 @@
 
 ###
 
-<br clear="both">
-
-<!-- <img href="https://raw.githubusercontent.com/MaxiG-dev/MaxiG-dev/blob/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img href="https://raw.githubusercontent.com/MaxiG-dev/MaxiG-dev/blob/output/snake.svg" alt="Snake animation" /> <br clear="both"> -->
 
 ###
-
-<br clear="both">
 
 <h4 align="center">━━━━━━━━━━━━━━ My skills ━━━━━━━━━━━━━━</h4>
 
