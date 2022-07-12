@@ -21,7 +21,7 @@
 
 <h4 align="center">━━━━━━━━━━━━━━━ My skills ━━━━━━━━━━━━━━━</h4>
 
-<table><tr overflow-x="hidden"><td valign="top" width="33%">
+<table overflow-x="hidden"><tr><td valign="top" width="33%">
 
 *<div align="center">Programing skills</div>*  
   
