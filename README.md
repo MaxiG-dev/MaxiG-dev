@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://maxig.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+    <img src="https://maxig.dev/src/img/MaxiGradiant.svg" width="52" height="40" alt="MaxiG.dev"  />
   </a>
 </div>
 
